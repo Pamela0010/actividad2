@@ -1,0 +1,24 @@
+.tb{
+    background-color: rgb(219, 113, 113);
+    border: 2px solid rgba(38, 0, 255, 0.726);
+    padding: 15px;
+    text-align: center;
+    margin: 20px 5px;
+    width: 600px;
+    }
+#texto1{
+    text-shadow: 5px 5px 10px rgb(147, 166, 228);
+    font: bold 30px Trebuchet MS;
+    width: 100%;
+    }
+#texto2{
+    text-shadow: 5px 5px 10px rgb(123, 121, 202);
+    font: bold 40px Trebuchet MS;
+    width: 100%;
+    }
+
+body{
+    margin: 100px auto;
+    width: 600px;
+    background-color: rgb(59, 59, 59);
+}

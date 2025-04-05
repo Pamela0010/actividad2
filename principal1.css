@@ -1,0 +1,8 @@
+p[name="uno"]{color: rgb(163, 86, 86); font-size: 70px;}
+p[name="dos"]{color: rgb(69, 68, 158); font-size: 80px;}
+p[name="tres"]{color: rgb(162, 0, 255); font-size: 90px;}
+
+body{
+    background-color: rgb(221, 191, 146);
+    text-align: center;
+}
